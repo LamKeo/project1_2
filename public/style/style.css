@@ -1,0 +1,22 @@
+body {
+  margin-top: 10%;
+  margin-left: 35%;
+  display: inline-block;
+  font-size: 150%;
+  background-image: url('http://i.imgur.com/0YouxFu.png?2');
+  background-size: 85%;
+
+}
+
+input {
+  font-size: 20px;
+}
+
+
+button
+{
+  background-color: #990066;
+  color: white;
+	border-radius: 10px;
+	font-size: 100%;
+}
